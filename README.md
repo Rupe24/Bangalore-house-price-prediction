@@ -31,7 +31,9 @@ This project involves and demonstrates:
 11. Full integration of machine learning with web applications.
 
 📦 **Note on Pickle File**
+
 Due to GitHub size limits and good practice, the trained model file (bangalore_home_prices_model.pkl) is not included in this repository. However, a placeholder or instruction is provided so that others can:
+s
 Train the model by running the notebook.
 Save it using joblib or pickle.
 Place it in the appropriate folder for the app to work.
