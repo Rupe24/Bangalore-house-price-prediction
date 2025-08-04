@@ -1,7 +1,7 @@
 🏠 Bangalore House Price Prediction
---> This project is an end-to-end data science and web development solution designed to predict house prices in Bangalore based on user inputs such as square footage, number of bedrooms, location, etc. 
---> It closely follows real-world workflows and combines data preprocessing, model training, backend development, and frontend integration.
---> The primary goal of the project is to demonstrate how machine learning models can be deployed in production and made accessible to end-users through a simple web interface.
+This project is an end-to-end data science and web development solution designed to predict house prices in Bangalore based on user inputs such as square footage, number of bedrooms, location, etc. 
+It closely follows real-world workflows and combines data preprocessing, model training, backend development, and frontend integration.
+The primary goal of the project is to demonstrate how machine learning models can be deployed in production and made accessible to end-users through a simple web interface.
 
 📌 What This Project Includes:
 1. Machine Learning Model
@@ -31,6 +31,6 @@ This project involves and demonstrates:
 
 📦 **Note on Pickle File**
 Due to GitHub size limits and good practice, the trained model file (bangalore_home_prices_model.pkl) is not included in this repository. However, a placeholder or instruction is provided so that others can:
---> Train the model by running the notebook.
---> Save it using joblib or pickle.
---> Place it in the appropriate folder for the app to work.
+Train the model by running the notebook.
+Save it using joblib or pickle.
+Place it in the appropriate folder for the app to work.
