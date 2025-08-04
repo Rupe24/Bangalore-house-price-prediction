@@ -1,5 +1,5 @@
 🏠 BANGALORE HOUSE PRICE PREDICTION
-
+ 
 This project is an end-to-end data science and web development solution designed to predict house prices in Bangalore based on user inputs such as square footage, number of bedrooms, location, etc. 
 It closely follows real-world workflows and combines data preprocessing, model training, backend development, and frontend integration.
 The primary goal of the project is to demonstrate how machine learning models can be deployed in production and made accessible to end-users through a simple web interface.
